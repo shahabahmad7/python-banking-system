@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Shahab",
+    "age": 23,
+    "email": "shahab123@email.com",
+    "pin": 1234,
+    "accountNo": 1234,
+    "balance": 0
+  },
+  {
+    "name": "aizaz",
+    "age": 20,
+    "email": "aizaz@gmail.com",
+    "pin": 4321,
+    "accountNo": "%8y0E9E",
+    "balance": 10000
+  },
+  {
+    "name": "Shahab Ahmad",
+    "age": 23,
+    "email": "shahab@gmail.com",
+    "pin": 1234,
+    "accountNo": "50^K3Ap",
+    "balance": 10000
+  }
+]
